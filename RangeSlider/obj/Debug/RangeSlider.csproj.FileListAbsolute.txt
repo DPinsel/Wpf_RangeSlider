@@ -1,0 +1,13 @@
+c:\users\pinse\documents\visual studio 2015\Projects\RangeSlider\RangeSlider\bin\Debug\RangeSlider.dll
+c:\users\pinse\documents\visual studio 2015\Projects\RangeSlider\RangeSlider\bin\Debug\RangeSlider.pdb
+c:\users\pinse\documents\visual studio 2015\Projects\RangeSlider\RangeSlider\obj\Debug\RangeSlider.csprojResolveAssemblyReference.cache
+c:\users\pinse\documents\visual studio 2015\Projects\RangeSlider\RangeSlider\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\pinse\documents\visual studio 2015\Projects\RangeSlider\RangeSlider\obj\Debug\RangeSlider_MarkupCompile.cache
+c:\users\pinse\documents\visual studio 2015\Projects\RangeSlider\RangeSlider\obj\Debug\RangeSlider_MarkupCompile.lref
+c:\users\pinse\documents\visual studio 2015\Projects\RangeSlider\RangeSlider\obj\Debug\Themes\Generic.baml
+c:\users\pinse\documents\visual studio 2015\Projects\RangeSlider\RangeSlider\obj\Debug\RangeSlider.g.resources
+c:\users\pinse\documents\visual studio 2015\Projects\RangeSlider\RangeSlider\obj\Debug\RangeSlider.Properties.Resources.resources
+c:\users\pinse\documents\visual studio 2015\Projects\RangeSlider\RangeSlider\obj\Debug\RangeSlider.csproj.GenerateResource.Cache
+c:\users\pinse\documents\visual studio 2015\Projects\RangeSlider\RangeSlider\obj\Debug\RangeSlider.dll
+c:\users\pinse\documents\visual studio 2015\Projects\RangeSlider\RangeSlider\obj\Debug\RangeSlider.pdb
+c:\users\pinse\documents\visual studio 2015\Projects\RangeSlider\RangeSlider\obj\Debug\Themes\RangeSlider.baml

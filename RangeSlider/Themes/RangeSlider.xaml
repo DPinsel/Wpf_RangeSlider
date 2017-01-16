@@ -1,0 +1,60 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:RangeSlider"
+                    xmlns:rs="clr-namespace:RangeSlider">
+
+    <Style x:Key="BackgroundBorderStyle" TargetType="{x:Type Border}">
+        <Setter Property="Background" Value="#FF626262" />
+    </Style>
+
+    <Style x:Key="SliderSidesStyle" TargetType="{x:Type Border}">
+        <Setter Property="Background" Value="#FFD2D2D2"/>
+        <Setter Property="Cursor" Value="SizeWE"/> 
+    </Style>
+
+    <Style x:Key="SliderMidStyle" TargetType="{x:Type Border}">
+        <Setter Property="Background" Value="#FFD2D2D2"/>
+        <Setter Property="BorderThickness" Value="1"/>
+        <Setter Property="BorderBrush" Value="Transparent"/>
+        <Setter Property="Cursor" Value="Hand"/>
+    </Style>
+
+    <Style x:Key="SliderHideBarsStyle" TargetType="{x:Type Border}">
+        <Setter Property="Background" Value="Transparent"/>
+    </Style>
+
+    <ControlTemplate x:Key="RangeSliderTemplate" TargetType="{x:Type rs:RangeSlider}">
+        <Grid Height="15" Margin="5 0 5 0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+
+            <Border x:Name="PART_BackgroundBar" Grid.Column="0" Grid.ColumnSpan="3" Style="{StaticResource BackgroundBorderStyle}"/>
+
+            <Border x:Name="PART_LeftHideBar" Grid.Column="0" Style="{StaticResource SliderHideBarsStyle}" />
+
+            <Grid x:Name="PART_Slider" Grid.Column="1" Margin="0 2 0 2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="4"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="4"/>
+                </Grid.ColumnDefinitions>
+
+                <Border x:Name="PART_SliderLeft" Grid.Column="0" CornerRadius="2 0 0 2" Style="{StaticResource SliderSidesStyle}" />
+                <Border x:Name="PART_SliderCenter" Grid.Column="1" Style="{StaticResource SliderMidStyle}"/>
+                <Border x:Name="PART_SliderRight" Grid.Column="2" CornerRadius="0 2 2 0" Style="{StaticResource SliderSidesStyle}" />
+            </Grid>
+
+            <Border x:Name="PART_RightHideBar" Grid.Column="2" Style="{StaticResource SliderHideBarsStyle}"/>
+
+        </Grid>
+    </ControlTemplate>
+
+
+    <Style TargetType="{x:Type local:RangeSlider}">
+        <Setter Property="Template" Value="{StaticResource RangeSliderTemplate}"/>
+    </Style>
+
+</ResourceDictionary>

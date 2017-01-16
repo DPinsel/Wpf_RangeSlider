@@ -1,0 +1,16 @@
+c:\users\pinse\documents\visual studio 2015\Projects\RangeSlider\DemoApplication\bin\Debug\DemoApplication.exe.config
+c:\users\pinse\documents\visual studio 2015\Projects\RangeSlider\DemoApplication\bin\Debug\DemoApplication.exe
+c:\users\pinse\documents\visual studio 2015\Projects\RangeSlider\DemoApplication\bin\Debug\DemoApplication.pdb
+c:\users\pinse\documents\visual studio 2015\Projects\RangeSlider\DemoApplication\bin\Debug\RangeSlider.dll
+c:\users\pinse\documents\visual studio 2015\Projects\RangeSlider\DemoApplication\bin\Debug\RangeSlider.pdb
+c:\users\pinse\documents\visual studio 2015\Projects\RangeSlider\DemoApplication\obj\Debug\DemoApplication.csprojResolveAssemblyReference.cache
+c:\users\pinse\documents\visual studio 2015\Projects\RangeSlider\DemoApplication\obj\Debug\MainWindow.g.cs
+c:\users\pinse\documents\visual studio 2015\Projects\RangeSlider\DemoApplication\obj\Debug\App.g.cs
+c:\users\pinse\documents\visual studio 2015\Projects\RangeSlider\DemoApplication\obj\Debug\DemoApplication_MarkupCompile.cache
+c:\users\pinse\documents\visual studio 2015\Projects\RangeSlider\DemoApplication\obj\Debug\DemoApplication_MarkupCompile.lref
+c:\users\pinse\documents\visual studio 2015\Projects\RangeSlider\DemoApplication\obj\Debug\MainWindow.baml
+c:\users\pinse\documents\visual studio 2015\Projects\RangeSlider\DemoApplication\obj\Debug\DemoApplication.g.resources
+c:\users\pinse\documents\visual studio 2015\Projects\RangeSlider\DemoApplication\obj\Debug\DemoApplication.Properties.Resources.resources
+c:\users\pinse\documents\visual studio 2015\Projects\RangeSlider\DemoApplication\obj\Debug\DemoApplication.csproj.GenerateResource.Cache
+c:\users\pinse\documents\visual studio 2015\Projects\RangeSlider\DemoApplication\obj\Debug\DemoApplication.exe
+c:\users\pinse\documents\visual studio 2015\Projects\RangeSlider\DemoApplication\obj\Debug\DemoApplication.pdb
